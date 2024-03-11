@@ -97,6 +97,7 @@ section h2 {
 
 .lista-veiculos li img {
     max-width: 100%;
+    width: 100%;
 }
 
 .lista-veiculos li h3 {
